@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/the-grind-stone/static/css/main.f855e6bc.css",
+    "main.js": "/the-grind-stone/static/js/main.8b4d24db.js",
+    "static/js/453.a804727f.chunk.js": "/the-grind-stone/static/js/453.a804727f.chunk.js",
+    "static/media/thegrindstone.jpeg": "/the-grind-stone/static/media/thegrindstone.8c8119c8ce88b7ed9b95.jpeg",
+    "index.html": "/the-grind-stone/index.html",
+    "main.f855e6bc.css.map": "/the-grind-stone/static/css/main.f855e6bc.css.map",
+    "main.8b4d24db.js.map": "/the-grind-stone/static/js/main.8b4d24db.js.map",
+    "453.a804727f.chunk.js.map": "/the-grind-stone/static/js/453.a804727f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8b4d24db.js"
+  ]
+}
